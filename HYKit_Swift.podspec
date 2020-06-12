@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'HYKit_Swift'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'HYKit_Swift.'
   s.description      = <<-DESC
 swift 工具库和一些常用的方法
