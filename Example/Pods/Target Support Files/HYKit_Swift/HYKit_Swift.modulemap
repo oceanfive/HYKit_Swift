@@ -1,0 +1,6 @@
+framework module HYKit_Swift {
+  umbrella header "HYKit_Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

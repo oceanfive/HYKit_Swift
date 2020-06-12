@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import HYKit_Swift
 
 class ViewController: UIViewController {
 
